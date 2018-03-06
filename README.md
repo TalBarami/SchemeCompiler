@@ -1,3 +1,2 @@
 # SchemeCompiler
-
-Final project of course Compiler Principles.
+A compiler for the scheme language, implemented as part of the Compiler Principles course.
